@@ -1,0 +1,16 @@
+{
+  "name": "resturant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d bahraini"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://rayhan62.github.io/bahraini-resturant",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
